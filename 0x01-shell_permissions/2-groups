@@ -1,2 +1,2 @@
-2-groups
-julien adm cdrom sudo dip plugdev lpadmin sambashare #!/bin/bash
+#!/bin/bash
+./2-groups
